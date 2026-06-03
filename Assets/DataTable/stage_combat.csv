@@ -1,0 +1,7 @@
+Stage_Combat_Table,Combat test stages,Ignored by parser
+Stage ID,Stage Name,String ID,Enemy Indices,Gimmick Indices
+stage_id,stage_name,string_id,enemy_indices,gimmick_indices
+*int,string,string,list_int,list_int
+1,Enemy Test 1,STR_STAGE_TEST_1,1000,
+3,Enemy Test 3,STR_STAGE_TEST_3,1000;1001;1002,
+5,Enemy Test 5,STR_STAGE_TEST_5,1000;1001;1002;1003;1004,

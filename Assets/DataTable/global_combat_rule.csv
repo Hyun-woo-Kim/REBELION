@@ -1,0 +1,9 @@
+Global_Combat_Rule_Table,Global combat rules,Ignored by parser,,
+Rule Key,Rule Name,Value,Unit,Description
+rule_key,rule_name,value,unit,description
+*string,string,float,string,string
+QTE_WINDOW_TIME,QTE Window Time,3,Sec,Input buffer after CC trigger
+FORCE_OVERHEAT_TURN,Force Overheat Legacy Turn,3,Action,Legacy display value
+FORCE_OVERHEAT_TICK,Force Overheat Tick,3000,Tick,Global absolute tick lock after chain success
+BREAK_DMG_MULTIPLIER,Break Damage Multiplier,2,Float,Defense ignore and damage boost
+STUN_DMG_MODIFIER,Stun Damage Modifier,1.3,Float,Damage boost against hard CC target

@@ -1,0 +1,9 @@
+Monster_Stat_Table,Monster base stats,Ignored by parser
+Monster ID,Name,String ID,Weakness Style,Default SPD,Max HP,Max Shield,Basic Skill ID
+monster_id,name,string_id,weakness_style,default_spd,max_hp,max_shield,basic_skill_id
+*int,string,string,string,int,int,int,string
+1000,Rift Drone,STR_MON_RIFT_DRONE,Punisher,90,300,3,SK_101
+1001,Aegis Trooper,STR_MON_AEGIS_TROOPER,Striker,105,420,4,SK_101
+1002,Echo Warden,STR_MON_ECHO_WARDEN,Resonance,80,520,5,SK_101
+1003,Iron Lancer,STR_MON_IRON_LANCER,Sentinel,95,480,4,SK_101
+1004,Null Priest,STR_MON_NULL_PRIEST,Resonance,75,620,6,SK_101
