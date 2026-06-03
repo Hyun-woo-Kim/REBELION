@@ -1,0 +1,7 @@
+Character_Stat_Table,Character base stats,Ignored by parser
+Character ID,Name,String ID,Weapon Style,Default SPD,Max BP Limit,Chain Skill ID,Basic Skill ID,Max HP,Max Shield
+character_id,name,string_id,weapon_style,default_spd,max_bp_limit,chain_skill_id,basic_skill_id,max_hp,max_shield
+*string,string,string,string,int,int,string,string,int,int
+CH_001,Bella,STR_CH_BELLA,Striker,120,5,SK_CHAIN_01,SK_101,780,0
+CH_002,Rina,STR_CH_RINA,Punisher,150,5,SK_CHAIN_02,SK_202,640,0
+CH_003,Sia,STR_CH_SIA,Resonance,95,5,SK_CHAIN_03,SK_303,700,0

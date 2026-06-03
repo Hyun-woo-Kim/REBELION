@@ -1,0 +1,10 @@
+Skill_Combat_Table,Skill tick cost and combat effects,Ignored by parser
+Skill ID,Numeric ID,Skill Name,String ID,Cost Skill,Shield Break Power,CC Type,CC Chance,QTE Trigger,Base Damage,Advance Gauge,BP Spent
+skill_id,numeric_id,skill_name,string_id,cost_skill,shield_break_power,cc_type,cc_chance,qte_trigger,base_damage,advance_gauge,bp_spent
+*string,int,string,string,float,int,string,float,bool,int,float,int
+SK_101,4001,Red Trace,STR_SK_RED_TRACE,0.00,1,None,0.00,false,90,0,0
+SK_202,4002,Plasma Napalm,STR_SK_PLASMA_NAPALM,0.40,2,Weaken,0.80,true,110,0,1
+SK_303,4003,Harmonic Resonance,STR_SK_HARMONIC_RESONANCE,0.50,3,Stun,1.00,true,85,0,1
+SK_CHAIN_01,4101,Chain Slash,STR_SK_CHAIN_SLASH,0.00,1,None,0.00,false,65,0,0
+SK_CHAIN_02,4102,Chain Barrage,STR_SK_CHAIN_BARRAGE,0.00,1,None,0.00,false,60,0,0
+SK_CHAIN_03,4103,Chain Pulse,STR_SK_CHAIN_PULSE,0.00,1,None,0.00,false,70,0,0

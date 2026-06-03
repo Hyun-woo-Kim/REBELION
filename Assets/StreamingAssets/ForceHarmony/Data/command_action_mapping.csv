@@ -1,0 +1,8 @@
+Command_Action_Mapping_Table,Ally command action mapping,Ignored by parser
+Action Index,Command Name,Cost Skill Coefficient,BP Change Value,Is QTE Triggerable,Weapon Style Type
+action_index,command_name,cost_skill_coefficient,bp_change_value,is_qte_triggerable,weapon_style_type
+*int,string,float,int,bool,string
+4001,Basic Attack,0.00,1,false,Inherit_Character_Style
+4002,Tactical Skill,0.45,0,true,Skill_Table_Link
+4003,Guard/Wait,-0.30,0,false,None
+4004,Ultimate Override,9.99,-99,false,Skill_Table_Link
